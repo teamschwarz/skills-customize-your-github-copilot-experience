@@ -41,6 +41,13 @@
       ]
     },
     {
+      "id": "automating-migrations",
+      "title": "Automating Migrations",
+      "description": "Build a Python script to detect, apply, and track pending database migrations.",
+      "path": "assignments/automating-migrations",
+      "dueDate": "2026-03-13"
+    },
+    {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
